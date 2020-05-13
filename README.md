@@ -18,7 +18,9 @@
 ## Questionamentos
 | Task           | Status | Finalizado | 
 |----------------|-----------------|-----------|
-| Necessidade dos quartos | Finalizado | :heavy_check_mark:
-| Escritorio uso profissional   | Finalizado | :heavy_check_mark:
+| Necessidade dos quartos | Finalizado | :heavy_check_mark: São necessários
+| Escritorio uso profissional   | Finalizado | :heavy_check_mark: Para uso profissional
 | Pergolado na garagem?   | Em andamento | :x:
 | Orientação do lote (Sol)   | Em andamento | :x:
+| Existem cadeirantes ou com dificuldade de locomoção na familia   | Em andamento | :x:
+| Casa localizada na esquina?  | Em andamento | :x:
