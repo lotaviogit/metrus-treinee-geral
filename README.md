@@ -5,7 +5,8 @@
 |----------------|-----------------|-----------|
 | Taxa de ocupação = 50% | Finalizado | :heavy_check_mark: 49.9%
 | Afastamento frontal = 3m   | Finalizado | :heavy_check_mark:
-| Afastamento lateral = 1.5m | Finalizado | :heavy_check_mark:
+| Afastamento lateral com janelas = 1.5m | Finalizado | :heavy_check_mark:
+| Afastamento lateral sem janelas = 0m | Finalizado | :heavy_check_mark:
 | Coeficiênte de Aproveitamento = 1   | Em andamento | :white_circle:
 | Sala de estar =  8 m2 area/ 2.4 m menor dimensão. Obs: Deverá haver pelo menos um dormitório com área mínima de 9m2  | Em andamento | :white_circle:
 | Dormitório/Salas de estudo e trabalho = 4 m2 area / 2.2 m menor dimensão  | Em andamento | :white_circle:
