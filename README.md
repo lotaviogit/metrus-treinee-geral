@@ -1,15 +1,15 @@
 # Projeto Metrus Trainee
 
 ## Tarefas a serem realizadas
-| Tarefa           | Responsavel | Status | Finalizado | 
+| Tarefa           | Responsavel | Status | Prazo | Finalizado | 
 |----------------|-----------------|-----------------|-----------|
-| Correção final da planta	| Kamilla | Implementando | :white_circle:
-| Gradil	| Isadora | Implementando | :white_circle:
-| Corte A-A	| Luis | Implementando | :white_circle:
-| Corte B-B	| Gustavo | Implementando | :white_circle:
-| Fachada	| Kamilla | Implementando | :white_circle:
-| Plotagem	| Gustavo | Implementando | :white_circle:
-| Lista de tarefas realizadas (para whatsapp)	| Isadora | Implementando | :white_circle:
+| Correção final da planta	| Kamilla | Implementando |  | :white_circle:
+| Gradil	| Isadora | Implementando | 13/05 21h | :white_circle:
+| Corte A-A	| Luis | Implementando | 13/05 21h | :white_circle:
+| Corte B-B	| Gustavo | Implementando | 13/05 21h | :white_circle:
+| Fachada	| Kamilla | Implementando | 13/05 21h | :white_circle:
+| Plotagem	| Gustavo | Implementando | 13/05 21h | :white_circle:
+| Lista de tarefas realizadas (para whatsapp)	| Isadora | Implementando | | :white_circle:
 
 ## Regras necessárias
 | Task           | Status | Finalizado | 
@@ -37,7 +37,7 @@
 | Casa localizada na esquina?  | Finalizado | :x: Não esta localizado na esquina.
 | Organização da area gourmet  | Implementando | :white_circle: Deve ser separada da casa
 | Tamanho das portas  | Implementando | :white_circle: Todas as portas 80cm. Apenas o banheiro com 60cm.
-| Qual tipo de telhado?  | Aguardando Resposta | :white_circle: Sugerir o imbutido
+| Qual tipo de telhado?  | Aguardando Resposta | :white_circle: Sugerir o embutido
 
 
 ## Parametros a serem seguidos
