@@ -4,6 +4,7 @@
 | Tarefa           | Responsavel | Status | Prazo | Finalizado | 
 |----------------|-----------------|-----------------|-----------|-----------|
 | Correção final da planta	| Kamilla | Implementando | | :white_circle:
+| Adicionar nomes, areas e cotas	| Luis | Implementando | | :white_circle:
 | Gradil	| Isadora | Implementando | 13/05 21h | :white_circle:
 | Corte A-A	| Luis | Implementando | 13/05 21h | :white_circle:
 | Corte B-B	| Gustavo | Implementando | 13/05 21h | :white_circle:
