@@ -19,8 +19,9 @@
 | Afastamento lateral com janelas = 1.5m | Finalizado | :heavy_check_mark:
 | Afastamento lateral sem janelas = 0m | Finalizado | :heavy_check_mark:
 | Coeficiênte de Aproveitamento = 1   | Em andamento | :white_circle:
-| Sala de estar =  8 m2 area/ 2.4 m menor dimensão. Obs: Deverá haver pelo menos um dormitório com área mínima de 9m2  | Em andamento | :white_circle:
+| Sala de estar =  8 m2 area/ 2.4 m menor dimensão. | Em andamento | :white_circle:
 | Dormitório/Salas de estudo e trabalho = 4 m2 area / 2.2 m menor dimensão  | Em andamento | :white_circle:
+| Dormitório/Salas de estudo e trabalho = Ao menos 1 dormitorio com 9m²  | Em andamento | :white_circle:
 | Refeições, cozinhas e copas = 4 m2 area / 1.5 m menor dimensão  | Em andamento | :white_circle:
 | Vaga de estacionamento = largura mínima de 2.5 m, área total 12,5m | Em andamento | :white_circle:
 | Corredores = largura mínima 0,90m | Em andamento | :white_circle:
