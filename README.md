@@ -22,9 +22,9 @@
 | Necessidade dos quartos | Finalizado | :heavy_check_mark: São necessários
 | Escritorio uso profissional   | Finalizado | :heavy_check_mark: Para uso profissional com clientes
 | Pergolado na garagem?   | Em andamento | :white_circle:
-| Orientação do lote (Sol)   | Finalizado | :heavy_check_mark: De acordo com o pré projeto
+| Orientação do lote (Sol)   | Finalizado | :heavy_check_mark: De acordo com o pré projeto **Quartos devem continuar onde estão**
 | Existem cadeirantes ou com dificuldade de locomoção na familia   | Finalizado | :x: Não tem cadeirantes
-| Casa localizada na esquina?  | Finalizado | :x: Não esta localizado na esquina. *Quartos devem continuar onde estão*
+| Casa localizada na esquina?  | Finalizado | :x: Não esta localizado na esquina.
 
 
 ## Parametros a serem seguidos
