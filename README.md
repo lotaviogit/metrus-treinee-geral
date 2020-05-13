@@ -25,6 +25,7 @@
 | Orientação do lote (Sol)   | Finalizado | :heavy_check_mark: De acordo com o pré projeto **Quartos devem continuar onde estão**
 | Existem cadeirantes ou com dificuldade de locomoção na familia   | Finalizado | :x: Não tem cadeirantes
 | Casa localizada na esquina?  | Finalizado | :x: Não esta localizado na esquina.
+| Organização da area gourmet  | Implementando | :white_circle: Deve ser separada da casa
 
 
 ## Parametros a serem seguidos
