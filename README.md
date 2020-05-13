@@ -1,5 +1,16 @@
 # Projeto Metrus Trainee
 
+## Tarefas a serem realizadas
+| Tarefa           | Responsavel | Status | Finalizado | 
+|----------------|-----------------|-----------------|-----------|
+| Correção final da planta	| Kamilla | Implementando | :white_circle:
+| Gradil	| Isadora | Implementando | :white_circle:
+| Corte A-A	| Luis | Implementando | :white_circle:
+| Corte B-B	| Gustavo | Implementando | :white_circle:
+| Fachada	| Kamilla | Implementando | :white_circle:
+| Plotagem	| Gustavo | Implementando | :white_circle:
+| Lista de tarefas realizadas (para whatsapp)	| Isadora | Implementando | :white_circle:
+
 ## Regras necessárias
 | Task           | Status | Finalizado | 
 |----------------|-----------------|-----------|
@@ -21,7 +32,6 @@
 |----------------|-----------------|-----------|
 | Necessidade dos quartos | Finalizado | :heavy_check_mark: São necessários
 | Escritorio uso profissional   | Finalizado | :heavy_check_mark: Para uso profissional com clientes
-| Pergolado na garagem?   | Em andamento | :white_circle:
 | Orientação do lote (Sol)   | Finalizado | :heavy_check_mark: De acordo com o pré projeto **Quartos devem continuar onde estão**
 | Existem cadeirantes ou com dificuldade de locomoção na familia   | Finalizado | :x: Não tem cadeirantes
 | Casa localizada na esquina?  | Finalizado | :x: Não esta localizado na esquina.
