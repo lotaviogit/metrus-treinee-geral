@@ -4,9 +4,9 @@
 | Tarefa           | Responsavel | Status | Prazo | Finalizado | 
 |----------------|-----------------|-----------------|-----------|-----------|
 | Correção final da planta	| Kamilla | Concluido | Finalizado 23:53 13/05 | :heavy_check_mark:
-| Adicionar nomes, areas e cotas	| Isadora/Luis | Concluido (niveis?) | Finalizado  | :heavy_check_mark:
+| Adicionar nomes, areas e cotas	| Isadora/Luis | Concluido | Finalizado  | :heavy_check_mark:
 | Gradil	| Isadora | Concluido  | Finalizado 11:39 13/05 | :heavy_check_mark:
-| Corte A-A	| Luis | Implementando | 13/05 21h | :white_circle:
+| Corte A-A	| Luis | Concluido | 20:35 14/05 | :heavy_check_mark:
 | Corte B-B	| Gustavo | Implementando | 13/05 21h | :white_circle:
 | Fachada	| Kamilla | Concluido | Finalizado 23:53 13/05 | :heavy_check_mark:
 | Plotagem	| Gustavo | Implementando | 13/05 21h | :white_circle:
