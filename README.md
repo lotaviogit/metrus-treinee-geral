@@ -3,14 +3,14 @@
 ## Tarefas a serem realizadas
 | Tarefa           | Responsavel | Status | Prazo | Finalizado | 
 |----------------|-----------------|-----------------|-----------|-----------|
-| Correção final da planta	| Kamilla | Implementando | | :white_circle:
-| Adicionar nomes, areas e cotas	| Luis | Implementando | | :white_circle:
+| Correção final da planta	| Kamilla | Concluido | | :heavy_check_mark:
+| Adicionar nomes, areas e cotas	| Luis | Parcial (Escalas/Niveis) | | :white_circle:
 | Gradil	| Isadora | Implementando | 13/05 21h | :white_circle:
 | Corte A-A	| Luis | Implementando | 13/05 21h | :white_circle:
 | Corte B-B	| Gustavo | Implementando | 13/05 21h | :white_circle:
 | Fachada	| Kamilla | Implementando | 13/05 21h | :white_circle:
 | Plotagem	| Gustavo | Implementando | 13/05 21h | :white_circle:
-| Lista de tarefas realizadas (para whatsapp)	| Isadora | Implementando | | :white_circle:
+| Lista de tarefas realizadas (para whatsapp)	| Isadora | Concluido | | :heavy_check_mark:
 
 ## Regras necessárias
 | Task           | Status | Finalizado | 
