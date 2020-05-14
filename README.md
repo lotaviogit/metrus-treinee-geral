@@ -25,7 +25,7 @@
 | Dormitório/Salas de estudo e trabalho = Ao menos 1 dormitorio com 9m²  | Finalizado | :heavy_check_mark: 11.39m2
 | Refeições, cozinhas e copas = 4 m2 area / 1.5 m menor dimensão  | Finalizado | :heavy_check_mark: 7.70 m2/
 | Vaga de estacionamento = largura mínima de 2.5 m, área total 12,5m | Finalizado | :heavy_check_mark:
-| Corredores = largura mínima 0,90m | Em andamento | :white_circle:
+| Corredores = largura mínima 0,90m | Finalizado | :heavy_check_mark:
 | Salas para exercício profissional = 10m²/ 2,4m menor dimensão | Finalizado | :heavy_check_mark:
 
 
