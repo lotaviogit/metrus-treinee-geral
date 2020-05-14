@@ -5,7 +5,7 @@
 |----------------|-----------------|-----------------|-----------|-----------|
 | Correção final da planta	| Kamilla | Concluido | Finalizado 23:53 13/05 | :heavy_check_mark:
 | Adicionar nomes, areas e cotas	| Isadora/Luis | Concluido (niveis?) | Finalizado  | :heavy_check_mark:
-| Gradil	| Isadora | Implementando | 13/05 21h | :white_circle:
+| Gradil	| Isadora | Concluido  | Finalizado 11:39 13/05 | :heavy_check_mark:
 | Corte A-A	| Luis | Implementando | 13/05 21h | :white_circle:
 | Corte B-B	| Gustavo | Implementando | 13/05 21h | :white_circle:
 | Fachada	| Kamilla | Concluido | Finalizado 23:53 13/05 | :heavy_check_mark:
@@ -39,7 +39,7 @@
 | Casa localizada na esquina?  | Finalizado | :x: Não esta localizado na esquina.
 | Organização da area gourmet  | Finalizado | :heavy_check_mark: Feito no fundo do lote
 | Tamanho das portas  | Finalizado | :heavy_check_mark: Todas as portas 80cm. Apenas o banheiro com 60cm.
-| Qual tipo de telhado?  | Finalizado | :heavy_check_mark: Será feito o embutido
+| Qual tipo de telhado?  | Finalizado | :heavy_check_mark: Será feito o embutido/platibanda
 
 
 ## Parametros a serem seguidos
