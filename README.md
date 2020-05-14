@@ -37,9 +37,9 @@
 | Orientação do lote (Sol)   | Finalizado | :heavy_check_mark: De acordo com o pré projeto **Quartos devem continuar onde estão**
 | Existem cadeirantes ou com dificuldade de locomoção na familia   | Finalizado | :x: Não tem cadeirantes
 | Casa localizada na esquina?  | Finalizado | :x: Não esta localizado na esquina.
-| Organização da area gourmet  | Implementando | :white_circle: Deve ser separada da casa
-| Tamanho das portas  | Implementando | :white_circle: Todas as portas 80cm. Apenas o banheiro com 60cm.
-| Qual tipo de telhado?  | Aguardando Resposta | :white_circle: Sugerir o embutido
+| Organização da area gourmet  | Finalizado | :heavy_check_mark: Feito no fundo do lote
+| Tamanho das portas  | Finalizado | :heavy_check_mark: Todas as portas 80cm. Apenas o banheiro com 60cm.
+| Qual tipo de telhado?  | Finalizado | :heavy_check_mark: Será feito o embutido
 
 
 ## Parametros a serem seguidos
