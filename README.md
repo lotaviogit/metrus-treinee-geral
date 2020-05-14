@@ -8,7 +8,7 @@
 | Gradil	| Isadora | Implementando | 13/05 21h | :white_circle:
 | Corte A-A	| Luis | Implementando | 13/05 21h | :white_circle:
 | Corte B-B	| Gustavo | Implementando | 13/05 21h | :white_circle:
-| Fachada	| Kamilla | Concluido | 13/05 21h | :heavy_check_mark:
+| Fachada	| Kamilla | Concluido | Finalizado 23:53 13/05 | :heavy_check_mark:
 | Plotagem	| Gustavo | Implementando | 13/05 21h | :white_circle:
 | Lista de tarefas realizadas (para whatsapp)	| Isadora | Concluido | | :heavy_check_mark:
 
