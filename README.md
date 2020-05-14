@@ -6,7 +6,7 @@
 | Correção final da planta	| Kamilla | Concluido | Finalizado 23:53 13/05 | :heavy_check_mark:
 | Adicionar nomes, areas e cotas	| Isadora/Luis | Concluido | Finalizado  | :heavy_check_mark:
 | Gradil	| Isadora | Concluido  | Finalizado 11:39 13/05 | :heavy_check_mark:
-| Corte A-A	| Luis | Concluido | 20:35 14/05 | :heavy_check_mark:
+| Corte A-A	| Luis | Concluido | Finalizado 20:35 14/05 | :heavy_check_mark:
 | Corte B-B	| Gustavo | Implementando | 13/05 21h | :white_circle:
 | Fachada	| Kamilla | Concluido | Finalizado 23:53 13/05 | :heavy_check_mark:
 | Plotagem	| Gustavo | Implementando | 13/05 21h | :white_circle:
@@ -15,18 +15,18 @@
 ## Regras necessárias
 | Task           | Status | Finalizado | 
 |----------------|-----------------|-----------|
-| Taxa de ocupação = 50% | Finalizado | :heavy_check_mark: 49.9%
+| Taxa de ocupação = 50% | Finalizado | :heavy_check_mark: 48.27%
 | Afastamento frontal = 3m   | Finalizado | :heavy_check_mark:
 | Afastamento lateral com janelas = 1.5m | Finalizado | :heavy_check_mark:
 | Afastamento lateral sem janelas = 0m | Finalizado | :heavy_check_mark:
-| Coeficiênte de Aproveitamento = 1   | Em andamento | :white_circle:
-| Sala de estar =  8 m2 area/ 2.4 m menor dimensão. | Em andamento | :white_circle:
-| Dormitório/Salas de estudo e trabalho = 4 m2 area / 2.2 m menor dimensão  | Em andamento | :white_circle:
-| Dormitório/Salas de estudo e trabalho = Ao menos 1 dormitorio com 9m²  | Em andamento | :white_circle:
-| Refeições, cozinhas e copas = 4 m2 area / 1.5 m menor dimensão  | Em andamento | :white_circle:
-| Vaga de estacionamento = largura mínima de 2.5 m, área total 12,5m | Em andamento | :white_circle:
+| Coeficiênte de Aproveitamento = 1   | Finalizado | :heavy_check_mark:
+| Sala de estar =  8 m2 area/ 2.4 m menor dimensão. | Finalizado | :heavy_check_mark: 17.94m2, 2.5m
+| Dormitório/Salas de estudo e trabalho = 4 m2 area / 2.2 m menor dimensão  | Finalizado | :heavy_check_mark:
+| Dormitório/Salas de estudo e trabalho = Ao menos 1 dormitorio com 9m²  | Finalizado | :heavy_check_mark: 11.39m2
+| Refeições, cozinhas e copas = 4 m2 area / 1.5 m menor dimensão  | Finalizado | :heavy_check_mark: 7.70 m2/
+| Vaga de estacionamento = largura mínima de 2.5 m, área total 12,5m | Finalizado | :heavy_check_mark:
 | Corredores = largura mínima 0,90m | Em andamento | :white_circle:
-| Salas para exercício profissional = 10m²/ 2,4m menor dimensão | Em andamento | :white_circle:
+| Salas para exercício profissional = 10m²/ 2,4m menor dimensão | Finalizado | :heavy_check_mark:
 
 
 ## Questionamentos
