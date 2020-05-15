@@ -4,18 +4,18 @@
 | Tarefa           | Responsavel | Status | Prazo | Finalizado | 
 |----------------|-----------------|-----------------|-----------|-----------|
 | Correção final da planta	| Kamilla | Concluido | Finalizado 23:53 13/05 | :heavy_check_mark:
-| Adicionar nomes, areas e cotas	| Isadora/Luis | Concluido | Finalizado  | :heavy_check_mark:
+| Adicionar nomes, areas, cotas e anotações	| Isadora/Luis/Gustavo | Concluido | Finalizado  | :heavy_check_mark:
 | Gradil	| Isadora | Concluido  | Finalizado 11:39 13/05 | :heavy_check_mark:
 | Corte A-A	| Luis | Concluido | Finalizado 20:35 14/05 | :heavy_check_mark:
-| Corte B-B	| Gustavo | Implementando | 13/05 21h | :white_circle:
+| Corte B-B	| Gustavo | Concluido | Finalizado | :heavy_check_mark:
 | Fachada	| Kamilla | Concluido | Finalizado 23:53 13/05 | :heavy_check_mark:
-| Plotagem	| Gustavo | Implementando | 13/05 21h | :white_circle:
+| Plotagem	| Gustavo | Concluido | Finalizado | :heavy_check_mark:
 | Lista de tarefas realizadas (para whatsapp)	| Isadora | Concluido | | :heavy_check_mark:
 
 ## Regras necessárias
 | Task           | Status | Finalizado | 
 |----------------|-----------------|-----------|
-| Taxa de ocupação = 50% | Finalizado | :heavy_check_mark: 48.27%
+| Taxa de ocupação = 50% | Finalizado | :heavy_check_mark: 49.57%
 | Afastamento frontal = 3m   | Finalizado | :heavy_check_mark:
 | Afastamento lateral com janelas = 1.5m | Finalizado | :heavy_check_mark:
 | Afastamento lateral sem janelas = 0m | Finalizado | :heavy_check_mark:
