@@ -11,7 +11,9 @@
 | Fachada	| Kamilla | Concluido | Finalizado 23:53 13/05 | :heavy_check_mark:
 | Plotagem	| Gustavo | Concluido | Finalizado | :heavy_check_mark:
 | Lista de tarefas realizadas (para whatsapp)	| Isadora | Concluido | | :heavy_check_mark:
-| Concertar area do banheiro do escritório | Todos | | :white_circle:
+| Concertar area do banheiro do escritório | Todos | | :heavy_check_mark:
+| Revisar e fazer pequenas alterações | Todos | | :heavy_check_mark:
+| Planta cobertura | Gustavo, Isadora, Luis | Concluido | :heavy_check_mark:
 
 ## Regras necessárias
 | Task           | Status | Finalizado | 
